@@ -1,6 +1,6 @@
 # GitSint Dockerized
 
-This repository contains a Docker setup for running [GitSint](https://github.com/N0rz3/GitSint), an OSINT tool for investigating GitHub users. The Docker container ensures all dependencies are installed and allows running the tool without setting up a virtual environment manually.
+This repository contains a Docker setup for running [GitSint](https://github.com/v1shwajeet/GitSint), an OSINT tool for investigating GitHub users. The Docker container ensures all dependencies are installed and allows running the tool without setting up a virtual environment manually.
 
 ## Prerequisites
 
